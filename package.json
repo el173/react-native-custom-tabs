@@ -1,5 +1,5 @@
 {
-  "name": "react-native-custom-tabs",
+  "name": "@el173/react-native-custom-tabs",
   "version": "0.1.0",
   "description": "React native wrapper for android custom tabs and iOS ASWebAuthenticationSession",
   "main": "lib/commonjs/index",
@@ -37,7 +37,7 @@
     "android"
   ],
   "repository": "https://github.com/el173/react-native-custom-tabs.git",
-  "author": "Hashith Karunarathne <hashithkarunarathne@live.com> (https://github.com/el173/react-native-custom-tabs.git)",
+  "author": "Hashith Karunarathne <hashithkarunarathne@live.com> (https://hashith.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/el173/react-native-custom-tabs.git/issues"
